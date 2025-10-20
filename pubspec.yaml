@@ -1,0 +1,22 @@
+name: mood_tracker_flutter
+description: Mood Tracker Flutter frontend
+publish_to: 'none'
+
+environment:
+  sdk: "^3.8.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.10
+  fl_chart: ^0.70.0
+  google_fonts: ^6.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
